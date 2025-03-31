@@ -66,6 +66,6 @@ Feel free to submit issues and pull requests to improve this project!
 
 ## 📞 Contact
 For inquiries or support, reach out via:
-- **GitHub Issues**: [Create an issue](https://github.com/Ramiruuu/LaravelAdminDashboard/issues)
+- **GitHub Issues**: (https://github.com/Ramiruuu/LaravelAdminDashboard/issues)
 - **Email**: oclaritremar01@gmail.com
 
